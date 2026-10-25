@@ -1,0 +1,11 @@
+ollama==0.4.7
+tabpfn==3.5.0
+torch==2.5.1+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+pandas==2.2.3
+scikit-learn==1.6.1
+watchdog==6.0.0
+plyer==2.1.0
+streamlit==1.42.0
+sentry-sdk==2.20.0
+mastra==0.1.0
+gunicorn==23.0.0

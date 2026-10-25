@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: slothbudget-dashboard
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run dashboard.py --server.port $PORT
