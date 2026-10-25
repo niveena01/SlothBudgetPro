@@ -12,10 +12,10 @@ from plyer import notification
 from tabpfn import TabPFNClassifier
 
 # Initialize Sentry Agent Tracing (Sponsor Category Prize)
-sentry_sdk.init(
-    dsn="YOUR_SENTRY_DSN_HERE",  # Replace with your free Sentry DSN from sentry.io
-    traces_sample_rate=1.0,
-)
+# sentry_sdk.init(
+#     dsn="YOUR_SENTRY_DSN_HERE",  # Replace with your free Sentry DSN from sentry.io
+#     traces_sample_rate=1.0,
+# )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 WATCH_DIR = os.path.join(BASE_DIR, "Unsorted")
