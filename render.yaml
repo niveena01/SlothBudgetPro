@@ -4,3 +4,6 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: streamlit run dashboard.py --server.port $PORT
+    envVars:
+      - key: TABPFN_API_KEY
+        sync: false

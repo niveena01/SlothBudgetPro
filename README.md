@@ -8,7 +8,7 @@
 ## 🌟 What It Is & The Lazy Payoff
 Manually organizing bank statements, UPI transactions, and receipt text files is a tedious administrative chore. **SlothBudget Pro** completely automates financial housekeeping in the background. 
 
-You simply drop raw receipt logs, SMS alerts, or text notes into a local folder (or upload them via the cloud dashboard), and the autonomous agent handles feature extraction, tabular ML classification, and ledger recording—**requiring zero manual data entry.**
+You simply drop raw receipt logs, SMS alerts, or text notes into a local folder (or upload / paste them via the cloud dashboard), and the autonomous agent handles feature extraction, tabular ML classification, and ledger recording—**requiring zero manual data entry.**
 
 ---
 
@@ -27,7 +27,7 @@ SlothBudget Pro utilizes a cutting-edge **hybrid architecture** optimized to run
 - **100% Financial Privacy:** Sensitive banking and receipt records are processed locally on your hardware. No financial data ever leaks to third-party APIs.
 - **Zero Cost:** Runs locally using open weights with $0 in API subscription fees.
 - **Resilient Background Agent:** Built with Python `watchdog` to monitor filesystem events and execute automated tasks instantly.
-- **Live Cloud Dashboard:** Real-time analytics, category breakdowns, and file upload capabilities hosted on Render.
+- **Live Cloud Dashboard:** Real-time analytics, category breakdowns, and file upload & text paste capabilities hosted on Render.
 
 ---
 

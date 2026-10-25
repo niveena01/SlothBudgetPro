@@ -1,0 +1,7 @@
+timestamp,merchant,amount,category,file
+2026-10-26 00:54:21,Starbucks,14.5,Food,receipt1.txt
+2026-10-26 00:54:23,Zara online store,110.0,Shopping,receipt2.txt
+2026-10-26 01:12:49,NA,25.0,General,pasted_receipt_20261026_011243.txt
+2026-10-26 01:12:58,NA,25.0,General,pasted_receipt_20261026_011244.txt
+2026-10-26 01:25:56,Starbucks,14.5,Food,receipt1.txt
+2026-10-26 01:26:04,Zara online store,110.0,Shopping,receipt2.txt
